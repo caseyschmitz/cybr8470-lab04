@@ -5,7 +5,7 @@ The Django project is extremely robust and the open source community has created
 
 Visit the tutorial here:
 
-()[https://docs.djangoproject.com/en/3.1/intro/tutorial01/]
+(https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 
 Before you jump into the tutorial, you can install Django using these instructions:
-()[https://docs.djangoproject.com/en/3.1/intro/install/]
+(https://docs.djangoproject.com/en/3.1/intro/install/)
